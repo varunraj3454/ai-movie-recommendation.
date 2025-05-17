@@ -29,6 +29,6 @@ This project is an AI-driven movie recommendation system that delivers *personal
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ai-movie-recommendation.git
+git clone https://github.com/your-varunraj3454/ai-movie-recommendation.git
 cd ai-movie-recommendation
 pip install -r requirements.txt
